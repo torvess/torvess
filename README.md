@@ -1,15 +1,10 @@
-## Olá! Eu sou o Igor Torves
+## Olá 👋
 
-Sou estudante de análise e ciência de dados na FIAP. 
+Sou graduado em processos gerenciais, pós graduado em gestão estratégica de negócios e atualmente estou cursando pós graduação em análise de dados na FIAP. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-torves-0aa146142)
 
-<div>
-  <a href="https://github.com/torvess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torvess&theme=dracula">
-</div>
-
-## Tecnologias que uso no meu dia
+## Skills 📦
 
 <div style="display: inline_block">
     <img align="center" alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -19,3 +14,11 @@ Sou estudante de análise e ciência de dados na FIAP.
     <img align="center" alt="" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </div>
 
+## Entre em contato comigo 📫
+
+Email: igor.torves.sl@hotmail.com
+
+<div>
+  <a href="https://github.com/torvess">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torvess&theme=dracula">
+</div>
