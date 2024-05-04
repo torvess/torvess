@@ -20,5 +20,5 @@ Email: igor.torves.sl@hotmail.com
 
 <div>
   <a href="https://github.com/torvess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torvess&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torvess&theme=nord">
 </div>
