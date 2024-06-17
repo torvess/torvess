@@ -11,7 +11,6 @@ Sou graduado em processos gerenciais, pós graduado em gestão estratégica de n
     <img align="center" alt="" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </div>
 
 ## Entre em contato comigo 📫
