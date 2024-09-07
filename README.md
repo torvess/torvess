@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou graduado em processos gerenciais, pós graduado em gestão estratégica de negócios e atualmente estou cursando pós graduação em Data Analytics na FIAP. 
+Sou graduado em processos gerenciais, pós graduado em gestão estratégica de negócios e Data Analytics. 
 
 Sou um profissional de análise de dados com mais de 4 anos de experiência, especializado em
 modelagem estatística, machine learning e desenvolvimento de visualizações de
