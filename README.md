@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Graduação em Processos Gerenciais, pós graduação em Gestão Estratégica de Negócios e Data Analytics. 
+Possuo graduação em Processos Gerenciais, pós graduação em Gestão Estratégica de Negócios e Data Analytics. 
 
 Sou um profissional de análise de dados com mais de 4 anos de experiência, especializado em modelagem de dados,
 análises estatísticas, construção de algorítmos de machine learning e desenvolvimento de visualizações de
