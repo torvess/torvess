@@ -1,11 +1,10 @@
 ## Olá 👋
 
-Possuo graduação em Processos Gerenciais, pós graduação em Gestão Estratégica de Negócios e Data Analytics. 
+Me chamo Igor e tenho formação em Modelagem e Análise de Dados.
 
-Sou um profissional de análise de dados com mais de 4 anos de experiência, especializado em modelagem de dados,
-análises estatísticas, construção de algorítmos de machine learning e desenvolvimento de visualizações de
-dados baseadas em storytelling, focado em realizar análises detalhadas para
-compreender comportamentos e apoiar tomadas de decisão estratégicas.
+Há mais de 4 anos atuo na área de dados, transformando dados brutos em informações estratégicas, garantindo segurança, performance e eficiência nos processos. 
+
+Atuo como Analytics Engineer, desenvolvendo soluções completas, desde a criação de ambientes na nuvem até a extração, transformação, análise e visualização dos dados. No dia a dia, utilizo provedores de cloud, linguagens SQL e Python, além de ferramentas como Airflow, Excel, Power BI e Qlik SaaS.
 
 No meu perfil você vai encontrar projetos em SQL, Python, Power BI e Excel.
 
